@@ -1,4 +1,4 @@
-// ## Stack With array
+// ## Implemation stack with array
 #include <bits/stdc++.h>
 using namespace std;
 const int MaxSize = 100 ;
