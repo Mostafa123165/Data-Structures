@@ -1,3 +1,4 @@
+// ## Stack With array
 #include <bits/stdc++.h>
 using namespace std;
 const int MaxSize = 100 ;
@@ -40,13 +41,20 @@ public:
     }
 };
 int main() {
-Stack <int>s ;
-s.push(5) ;
-s.push(6) ;
-s.push(7) ;
-s.push(8) ;
-s.print();
-s.getTop();
-s.pop();
-s.getTop();
+    Stack <int>s ;
+    s.push(5) ;
+    s.push(6) ;
+    s.push(7) ;
+    s.push(8) ;
+    s.print();
+    s.getTop();
+    s.pop();
+    s.getTop();
 }
+
+/*
+# stack : is linear data structure that follows the principle of last-in-first-out(LIFO)
+# LIFO : this mean tha last element inserted inside in stack is remover first
+ ex : ( ctrl + z ) 
+*/
+
