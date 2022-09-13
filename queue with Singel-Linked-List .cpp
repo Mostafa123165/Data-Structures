@@ -1,4 +1,4 @@
-// ## queue Using array Implementation
+// ## queue Using singel-linked-list Implementation
 #include <bits/stdc++.h>
 using namespace std;
 const int MX = 100 ;
