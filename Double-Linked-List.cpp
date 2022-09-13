@@ -1,4 +1,4 @@
-// ## queue Using array Implementation
+// ## Implementation linked list with double pointer 
 #include <bits/stdc++.h>
 using namespace std;
 const int MX = 100 ;
